@@ -1,0 +1,33 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    width: 1500px;
+    height: 900px;
+    text-align: center;
+    font-size: large;}
+
+.first_box {
+    display: flex;
+    column-gap: 5px;
+    height: 400px;
+    flex-basis: 100%;}
+
+.box_home {
+    background: aquamarine;
+    flex-grow: 1;}
+
+.second_box {
+    background: lightgreen;
+    height: 250px;
+    margin-top: 8px;
+    margin-bottom: 8px;}
+
+.third_box {
+    display: flex;
+    column-gap: 5px;
+    height: 200px;
+    flex-basis: 100%;}
+
+.content {
+    background: darkcyan;
+    flex-grow: 1;}
