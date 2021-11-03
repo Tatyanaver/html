@@ -1,0 +1,40 @@
+.main {
+    height: 900px;
+    width: 1500px;
+    text-align: center;
+    font-size: 40px;
+    color: #f8f5f2;
+}
+
+.widjets {
+    column-gap: 5px;
+    justify-content: center;}
+
+.boxes {
+    flex-grow: 1;
+    background: cornflowerblue;
+}
+
+.d-flex {
+    display: flex;
+}
+.bg {
+    background: darkslateblue;
+}
+
+.h200 {
+    height: 200px;
+}
+
+.h400 {
+    height: 400px;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.mb10 {
+    margin-bottom: 10px;
+}
+

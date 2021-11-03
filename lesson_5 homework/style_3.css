@@ -1,0 +1,52 @@
+.box_head {
+    background: lightgray;
+    width: 1400px;
+    color: #3a1414;
+    font-size: 16px;
+    text-align: center;}
+
+#header {
+    background: lightgreen;
+    justify-content: center;
+    align-items: center;}
+
+.second_box {
+    justify-content: space-between;
+    column-gap: 10px;}
+
+.a_box {
+    width: 30%;}
+
+#menu {
+    width: 70%;}
+
+.b_box, .c_box {
+    height: 48%;}
+
+.d-flex {
+    display: flex;}
+
+.flex-d {
+    flex-direction: column;
+}
+
+.bg {
+    background: darkslategray;
+}
+.bg2 {
+    background: aquamarine;
+}
+
+.h100 {
+    height: 100px;}
+
+.h400 {
+    height: 400px;
+}
+.mb5 {
+    margin-bottom: 5px;
+}
+
+.bord {
+    border: 3px solid black;
+}

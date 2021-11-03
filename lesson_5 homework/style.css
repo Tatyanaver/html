@@ -1,0 +1,37 @@
+.box_head {
+    background: lightgray;
+    width: 1600px;
+    color: #f8f5f2;
+    font-size: 18px;
+    text-align: center;
+    }
+.box_first {
+    width: 100%;
+    height: 300px;}
+
+.d-flex {
+    display: flex;
+}
+
+.box_second {
+    width: 65%;
+    }
+.box_third {
+    width: 35%;
+    }
+
+.h450 {
+    height: 450px;}
+
+.bg {
+    background: dimgray;
+}
+.mb10 {
+    margin-bottom: 10px;
+}
+.mb5 {
+    margin-bottom: 5px;
+}
+.mr {
+    margin-right: 10px;
+}

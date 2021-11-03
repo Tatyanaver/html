@@ -1,0 +1,40 @@
+.box_head {
+    background: lightgray;
+    width: 1500px;
+    color: #3a1414;
+    text-align: center;
+}
+.first_box {
+    background: darkkhaki;
+    }
+
+.third_box {
+    height: 350px;}
+
+.a_box {
+    background: sienna;
+    flex-grow: 3;}
+
+.b_box {
+    background: bisque;
+    flex-grow: 1;}
+
+.d-flex {
+    display: flex;
+}
+.h130 {
+    height: 130px;
+}
+.h150 {
+    height: 150px;
+}
+.bg {
+    background: saddlebrown;
+}
+.mb5 {
+    margin-bottom: 5px;
+}
+
+.mb3 {
+    margin-bottom: 3px;
+}
